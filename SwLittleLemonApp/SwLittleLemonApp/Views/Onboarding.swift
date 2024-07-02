@@ -24,6 +24,8 @@ struct Onboarding: View {
         NavigationStack {
             ScrollView(.vertical, showsIndicators: false) {
                 VStack {
+                    //Image("Logo")
+                      //  .padding(.top)
                     Header()
                     Hero()
                         .padding()
