@@ -2,5 +2,5 @@
 Coursera Little Lemon App
 
 # Wireframe from Figma:
-![Wireframe](https://github.com/NoxXxZo/littleLemon/blob/main/Wireframe.png)
-![](https://github.com/NoxXxZo/littleLemon/blob/main/wireframeFigma.png)
+<img src="https://github.com/NoxXxZo/littleLemon/blob/main/Wireframe.png" alt="Wireframe" width="50%"/>
+<img src="https://github.com/NoxXxZo/littleLemon/blob/main/wireframeFigma.png" alt="Wireframe" width="50%"/>
