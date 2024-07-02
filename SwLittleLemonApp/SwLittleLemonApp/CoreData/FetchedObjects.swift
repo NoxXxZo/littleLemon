@@ -1,3 +1,4 @@
+//Fetched
 import CoreData
 import Foundation
 import SwiftUI
@@ -20,10 +21,11 @@ struct FetchedObjects<T, Content>: View where T : NSManagedObject, Content : Vie
       sortDescriptors: sortDescriptors,
       predicate: predicate
     )
-  }  
+  }
   var body: some View {
     self.content(results.map { $0 })
   }
-  
-  
 }
+
+
+//test

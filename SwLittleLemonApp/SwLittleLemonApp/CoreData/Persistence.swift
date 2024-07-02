@@ -1,10 +1,4 @@
-//
-//  Persistence.swift
-//  SwLittleLemonApp
-//
-//  Created by Arturo Camacho on 27/6/24.
-//
-
+//Persistence
 import CoreData
 import Foundation
 
