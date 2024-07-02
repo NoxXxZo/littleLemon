@@ -12,6 +12,7 @@ struct MainScreen: View {
     
     var body: some View {
         NavigationStack {
+            //Image("Logo")
             VStack {
                 Header()
                 Menu()
